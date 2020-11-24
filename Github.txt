@@ -1,0 +1,30 @@
+
+GitHub, ?m?kdasl?q v? versiya n?zar?ti ucun bir kod yerlesdirme  platformas?d?r.
+
+GitHub ?saslar? bunlard?r:
+Repositories
+Branches
+Commits
+Pull Requests
+Git (the version control software GitHub is built on)
+    (versiya n?zar?t proqram? GitHub qurasd?r?lm?sd?r)
+
+Repository
+
+Bir inkisaf layih?sini yaddasda saxlamaq ucun bir GitHub deposu istifad? edil? bil?r.
+
+Qovluqlar? v? h?r nov fayllar? (HTML, CSS, JavaScript, S?n?dl?r, M?lumat, S?kill?r) yerlesdirile bil?r.
+
+GitHub deposu, layih? haqq?nda bir lisenziya fayl? v? bir README fayl? olmalidir.
+
+GitHub deposu, fikirl?ri v? ya paylasmaq ist?diyiniz m?nb?l?ri saxlamaq ucun d? istifad? edil? bil?r.
+
+Branch eyni vaxtda muxt?lif depo versiyalar? il? isl?m?k ucun istifad? olunur.
+
+Varsay?lan olaraq bir depoda bir master branch var.
+
+H?r hans? bir branch master branch  bir nusx?sidir (zaman?n mu?yy?n bir noqt?sind? oldugu kimi).
+
+Yeni Filiallar ?sas duz?ltm?d?n ayr? hata duzeltmeleri v? xususiyy?t isl?ri ucundur.
+ D?yisiklikl?r haz?r olduqda, ana filiala birl?sdiril? bil?r. 
+Yeni bir filial uz?rind? isl?y?rk?n ana filialda d?yisiklik ets?niz, bu yenil?m?l?r c?kil? bil?r.
